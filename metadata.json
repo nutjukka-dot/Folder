@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio & Project Showcase (Tactile Soft-UI)",
+  "description": "Tactile soft-UI portfolio and project showcase with masonry layout, instant filter, command palette, interactive project modal, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
